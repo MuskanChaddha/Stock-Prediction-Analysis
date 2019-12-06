@@ -4,10 +4,15 @@
 Predicting how the stock market will perform is one of the most difficult things to do. There are so many factors involved in the prediction – physical factors vs. physhological, rational and irrational behaviour, etc. All these aspects combine to make share prices volatile and very difficult to predict with a high degree of accuracy.
 
 <h3>Problem Statement</h3>
+<br>
 1. What was the daily return of the stock on average? 
+<br>
 2. What was the correlation between different stocks' closing prices?
+<br>
 3. What was the correlation between different stocks' daily returns?
+<br>
 4. How much value do we put at risk by investing in a particular stock?
+<br>
 5. How clone them according their closing?
 
 <h3>DATASET:</h3>
